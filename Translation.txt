@@ -1,0 +1,700 @@
+'screen_1'
+{
+	'en'	''
+}
+'label_2'
+{
+	'en'	''
+}
+'PO_4'
+{
+	'en'	''
+}
+'PO_2'
+{
+	'en'	''
+}
+'LOWBANK_TEXT'
+{
+	'en'	'LOW Bank \n(100%) 735.2 bar'
+}
+'MIDBANK_TEXT'
+{
+	'en'	'MID Bank \n(100%) 735.2 bar'
+}
+'HIGHBANK_TEXT'
+{
+	'en'	'HIGH Bank \n(100%) 850 bar'
+}
+'TT200'
+{
+	'en'	''
+}
+'TRAILER_1'
+{
+	'en'	''
+}
+'TRAILER_2'
+{
+	'en'	''
+}
+'TRAILER_4'
+{
+	'en'	''
+}
+'HIGH_1'
+{
+	'en'	''
+}
+'MID_1'
+{
+	'en'	''
+}
+'LOW_1'
+{
+	'en'	''
+}
+'MFM_1'
+{
+	'en'	''
+}
+'SV_1'
+{
+	'en'	''
+}
+'C_3'
+{
+	'en'	''
+}
+'PO_3'
+{
+	'en'	''
+}
+'C_6'
+{
+	'en'	''
+}
+'NOZZLE_1'
+{
+	'en'	''
+}
+'NOZZLE_4'
+{
+	'en'	''
+}
+'LOW_2'
+{
+	'en'	''
+}
+'MID_3'
+{
+	'en'	''
+}
+'HIGH_3'
+{
+	'en'	''
+}
+'MFM1_LABEL'
+{
+	'en'	'MFM1'
+}
+'MFM1_M_1'
+{
+	'en'	''
+}
+'UNIT_2'
+{
+	'en'	'g/s'
+}
+'MFM1_M_2'
+{
+	'en'	''
+}
+'UNIT'
+{
+	'en'	'kg'
+}
+'l27_2'
+{
+	'en'	''
+}
+'bar850'
+{
+	'en'	'800bar'
+}
+'bar850_2'
+{
+	'en'	'0 bar'
+}
+'BUS_1'
+{
+	'en'	''
+}
+'TRAILER_3'
+{
+	'en'	''
+}
+'PI_1'
+{
+	'en'	''
+}
+'PI_2'
+{
+	'en'	''
+}
+'PI_3'
+{
+	'en'	''
+}
+'PO_1'
+{
+	'en'	''
+}
+'LOW_3'
+{
+	'en'	''
+}
+'SV_2'
+{
+	'en'	''
+}
+'COMP_1'
+{
+	'en'	''
+}
+'PO_5'
+{
+	'en'	''
+}
+'PO_6'
+{
+	'en'	''
+}
+'MID_2'
+{
+	'en'	''
+}
+'HIGH_2'
+{
+	'en'	''
+}
+'C_2'
+{
+	'en'	''
+}
+'C_1'
+{
+	'en'	''
+}
+'C_4'
+{
+	'en'	''
+}
+'C_5'
+{
+	'en'	''
+}
+'FILTER_1'
+{
+	'en'	''
+}
+'MFM_2'
+{
+	'en'	''
+}
+'SV_7'
+{
+	'en'	''
+}
+'SV_6'
+{
+	'en'	''
+}
+'SV_3'
+{
+	'en'	''
+}
+'SV_4'
+{
+	'en'	''
+}
+'SV_5'
+{
+	'en'	''
+}
+'NOZZLE_2'
+{
+	'en'	''
+}
+'NOZZLE_3'
+{
+	'en'	''
+}
+'VENT'
+{
+	'en'	''
+}
+'SV_9'
+{
+	'en'	''
+}
+'SV_8'
+{
+	'en'	''
+}
+'NOZZLE'
+{
+	'en'	''
+}
+'HEX_2'
+{
+	'en'	''
+}
+'CV_1'
+{
+	'en'	''
+}
+'CH_1'
+{
+	'en'	''
+}
+'CH_2'
+{
+	'en'	''
+}
+'CHILLER_2'
+{
+	'en'	''
+}
+'CHILLER_1'
+{
+	'en'	''
+}
+'CH_4'
+{
+	'en'	''
+}
+'HEX_1'
+{
+	'en'	''
+}
+'CH_3'
+{
+	'en'	''
+}
+'MFM1_LABEL_3'
+{
+	'en'	'COMP.in'
+}
+'COMIN_P'
+{
+	'en'	''
+}
+'UNIT_5'
+{
+	'en'	'bar'
+}
+'COMIN_T'
+{
+	'en'	''
+}
+'UNIT_6'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_4'
+{
+	'en'	'COMP.out'
+}
+'COMOUT_T'
+{
+	'en'	''
+}
+'UNIT_4'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_5'
+{
+	'en'	'HEX.out'
+}
+'HEXOUT_P'
+{
+	'en'	''
+}
+'UNIT_7'
+{
+	'en'	'bar'
+}
+'HEXOUT_T'
+{
+	'en'	''
+}
+'UNIT_8'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_6'
+{
+	'en'	'T/T200'
+}
+'TT200_TEXT'
+{
+	'en'	''
+}
+'UNIT_9'
+{
+	'en'	'bar'
+}
+'HIGH_P'
+{
+	'en'	''
+}
+'HIGH_PDD'
+{
+	'en'	'bar'
+}
+'MID_P'
+{
+	'en'	''
+}
+'DDD'
+{
+	'en'	'bar'
+}
+'LOW_P'
+{
+	'en'	''
+}
+'UNIT_12'
+{
+	'en'	'bar'
+}
+'MFM1_LABEL_7'
+{
+	'en'	'HIGH'
+}
+'MFM1_LABEL_8'
+{
+	'en'	'MID'
+}
+'MFM1_LABEL_9'
+{
+	'en'	'LOW'
+}
+'MFM1_LABEL_10'
+{
+	'en'	'MFM2'
+}
+'MFM2_P'
+{
+	'en'	''
+}
+'UNIT_15'
+{
+	'en'	'bar'
+}
+'MFM2_M'
+{
+	'en'	''
+}
+'UNIT_14'
+{
+	'en'	'g/s'
+}
+'MFM1_LABEL_11'
+{
+	'en'	'NOZZLE'
+}
+'NOZZLE_P'
+{
+	'en'	''
+}
+'UNIT_16'
+{
+	'en'	'bar'
+}
+'NOZZLE_T'
+{
+	'en'	''
+}
+'UNIT_17'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_12'
+{
+	'en'	'Pre-Cooler'
+}
+'HEX2_T'
+{
+	'en'	''
+}
+'UNIT_13'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_13'
+{
+	'en'	'VENT'
+}
+'CHILLER_7'
+{
+	'en'	''
+}
+'CHILLER_8'
+{
+	'en'	''
+}
+'CHILLER_9'
+{
+	'en'	''
+}
+'CHILLER_10'
+{
+	'en'	''
+}
+'CHILLER_12'
+{
+	'en'	''
+}
+'CHILLER_13'
+{
+	'en'	''
+}
+'CHILLER_19'
+{
+	'en'	''
+}
+'CHILLER_20'
+{
+	'en'	''
+}
+'CHILLER_21'
+{
+	'en'	''
+}
+'CHILLER_22'
+{
+	'en'	''
+}
+'CHILLER_23'
+{
+	'en'	''
+}
+'CHILLER_24'
+{
+	'en'	''
+}
+'CHILLER_25'
+{
+	'en'	''
+}
+'CHILLER_11'
+{
+	'en'	''
+}
+'MFM1_LABEL_14'
+{
+	'en'	'Control Valve'
+}
+'CV_C'
+{
+	'en'	''
+}
+'UNIT_18'
+{
+	'en'	'%'
+}
+'MFM1_LABEL_16'
+{
+	'en'	'Pressure'
+	'ko'	'압력'
+}
+'V_SOC'
+{
+	'en'	''
+}
+'UNIT_19'
+{
+	'en'	'%'
+}
+'V_T'
+{
+	'en'	''
+}
+'UNIT_20'
+{
+	'en'	'℃'
+}
+'V_P'
+{
+	'en'	''
+}
+'UNIT_21'
+{
+	'en'	'bar'
+}
+'MFM1_LABEL_17'
+{
+	'en'	'Temp'
+	'ko'	'온도'
+}
+'MFM1_LABEL_18'
+{
+	'en'	'SOC'
+}
+'MFM1_LABEL_19'
+{
+	'en'	'Volume'
+	'ko'	'부피'
+}
+'MFM1_LABEL_20'
+{
+	'en'	'Mass'
+	'ko'	'질량'
+}
+'V_M'
+{
+	'en'	''
+}
+'UNIT_22'
+{
+	'en'	'kg'
+}
+'V_V'
+{
+	'en'	'880'
+}
+'UNIT_23'
+{
+	'en'	'L'
+}
+'tank'
+{
+	'en'	''
+}
+'TIME_T'
+{
+	'en'	'0/0'
+}
+'MFM1_LABEL_15'
+{
+	'en'	'TIME'
+	'ko'	'시간'
+}
+'MFM1_LABEL_21'
+{
+	'en'	'Ambient\nTemp'
+	'ko'	'주변온도'
+}
+'A_T'
+{
+	'en'	''
+}
+'UNIT_24'
+{
+	'en'	'℃'
+}
+'MFM1_LABEL_22'
+{
+	'en'	'Compressor'
+	'ko'	'컴프레서'
+}
+'MFM1_LABEL_23'
+{
+	'en'	'SUB Chiller'
+}
+'MFM1_LABEL_24'
+{
+	'en'	'MAIN Chiller'
+}
+'B_1'
+{
+	'en'	''
+}
+'B_2'
+{
+	'en'	''
+}
+'B_3'
+{
+	'en'	''
+}
+'B_4'
+{
+	'en'	''
+}
+'CHILLER_3'
+{
+	'en'	''
+}
+'FILL_1'
+{
+	'en'	'Fill'
+	'ko'	'충전'
+}
+'T40'
+{
+	'en'	'T40'
+}
+'BANK1'
+{
+	'en'	'MID'
+}
+'BANK2'
+{
+	'en'	'HIGH'
+}
+'MFM1_LABEL_25'
+{
+	'en'	'Play Speed'
+	'ko'	'재생속도'
+}
+'label'
+{
+	'en'	''
+}
+'SPEED_T'
+{
+	'en'	'1'
+}
+'TIME_1'
+{
+	'en'	'2022 04 16 \n05:05:23'
+}
+'BUSTANK_1'
+{
+	'en'	''
+}
+'P_t'
+{
+	'en'	''
+}
+'DDD_2'
+{
+	'en'	'bar'
+}
+'MFM1_LABEL_26'
+{
+	'en'	'Target P'
+	'ko'	'목표압'
+}
+'MFM1_LABEL_27'
+{
+	'en'	'Initial P'
+	'ko'	'초기압'
+}
+'P_i'
+{
+	'en'	''
+}
+'HIGH_PDD_2'
+{
+	'en'	'bar'
+}
+'MFM1_LABEL_28'
+{
+	'en'	'Dispenser'
+	'ko'	'디스펜서'
+}
